@@ -1,7 +1,6 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arshiakhan50)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**Arshiakhan50/Arshiakhan50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
