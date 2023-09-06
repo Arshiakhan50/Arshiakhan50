@@ -1,5 +1,13 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arshiakhan50)](https://github.com/anuraghazra/github-readme-stats)
+### Stats for Nerds
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arshiakhan50&count_private=true&theme=midnight-purple&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
+</a>
 <!--
 
 Here are some ideas to get you started:
