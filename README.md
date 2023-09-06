@@ -26,7 +26,6 @@
 </p>
 
 ### Stats for Nerds
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arshiakhan50&count_private=true&theme=midnight-purple&show_icons=true" />
 </a>
