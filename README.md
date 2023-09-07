@@ -28,8 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
   </a>
 
-<a href="https://github.com/Arshiakhan50?tab=followers"></a>
-<img src="https://img.shields.io/github/followers/Arshiakhan50?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
 
  <!--streaks-->
    
