@@ -1,3 +1,43 @@
+<!---header --->
+<h1 align="center">Hello, Wolrd<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
+
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--header--->
+
+<!--Typing  svg-->
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+John+Mwega!...;A+Software+Engineer+...;and+UI/UX+Designer...;Great+to+have+you+here!🖤&center=true&size=20" alt="Typing SVG" /></a>
+</h1>
+<!--Typing svg-->
+
+<!--svg-->
+<img src="https://github.com/CodeDroid999/Arshiakhan50/blob/main/header_.png">
+<!--svg-->
+
+<!--streaks-->
+<p>
+   
+  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Arshiakhan50&count_private=true&theme=dark&hide_border=true">
+
+   
+</p>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
+  </a>
+
+<a href="https://github.com/Arshiakhan50?tab=followers"></a>
+<img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+
+ <!--streaks-->
+   
+ 
+
+
+<!--
+
 ### Hi there 👋
 
 ###
@@ -9,6 +49,8 @@
   <li>Email: arshia.sharifi@torontomu.ca</li>
   <li><a href="https://www.linkedin.com/in/arshia-sharifi-1b581024b/" target="_blank">LinkedIn</a></li>
   </ul>
+
+-->
 
 ### My Tech Stack
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
