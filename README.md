@@ -29,7 +29,7 @@
   </a>
 
 <a href="https://github.com/Arshiakhan50?tab=followers"></a>
-<img src="https://img.shields.io/github/followers/CodeDroid999?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+<img src="https://img.shields.io/github/followers/Arshiakhan50?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
 
  <!--streaks-->
    
