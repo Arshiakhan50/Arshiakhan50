@@ -1,5 +1,5 @@
 <!---header --->
-<h1 align="center">Hello, Wolrd<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
+<h1 align="center">Hello, World<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
 
  <p align="center">
   <img src="https://github.com/Arshiakhan50/Arshiakhan50/blob/main/Rainbow.gif" width="100vw">
