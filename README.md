@@ -13,7 +13,7 @@
 <!--Typing svg-->
 
 <!--svg-->
-<img src="https://github.com/CodeDroid999/Arshiakhan50/blob/main/header_.png">
+<img src="https://github.com/Arshiakhan50/Arshiakhan50/blob/main/header_.png">
 <!--svg-->
 
 <!--streaks-->
