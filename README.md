@@ -16,6 +16,17 @@
 <img src="https://github.com/Arshiakhan50/Arshiakhan50/blob/main/header_.png">
 <!--svg-->
 
+### Hi there 👋 ###
+- 👋 Hi, I’m Arshia Sharifi
+- 👀 I’m always eager to take on new challenges and continuously imporove my skills.
+- 💞️ I am passionate about creating user-friendly software solutions that can make a real impact.
+- 📫 How to reach me:
+  <ul>
+  <li>Email: arshia.sharifi@torontomu.ca</li>
+  <li><a href="https://www.linkedin.com/in/arshia-sharifi-1b581024b/" target="_blank">LinkedIn</a></li>
+  </ul>
+
+
 <!--streaks-->
 ### Stats for Nerds
 <a href="https://github.com/anuraghazra/convoychat">
@@ -29,25 +40,6 @@
 -->
 
  <!--streaks-->
-   
- 
-
-
-<!--
-
-### Hi there 👋
-
-###
-- 👋 Hi, I’m Arshia Sharifi
-- 👀 I’m always eager to take on new challenges and continuously imporove my skills.
-- 💞️ I am passionate about creating user-friendly software solutions that can make a real impact.
-- 📫 How to reach me:
-  <ul>
-  <li>Email: arshia.sharifi@torontomu.ca</li>
-  <li><a href="https://www.linkedin.com/in/arshia-sharifi-1b581024b/" target="_blank">LinkedIn</a></li>
-  </ul>
-
--->
 
 ### My Tech Stack
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
