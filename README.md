@@ -17,12 +17,15 @@
 <!--svg-->
 
 <!--streaks-->
+
+<!-- 
 <p>
    
   <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Arshiakhan50&count_private=true&theme=dark&hide_border=true">
 
    
 </p>
+-->
 
   <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
