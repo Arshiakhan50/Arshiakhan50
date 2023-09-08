@@ -17,11 +17,16 @@
 <!--svg-->
 
 <!--streaks-->
+### Stats for Nerds
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
+</a>
 
+<!--
   <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&theme=dark&langs_count=6&hide_border=true" width="75%"/>
   </a>
-
+-->
 
  <!--streaks-->
    
@@ -58,11 +63,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next" width="40" height="40"/></a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/></a> 
 </p>
-
-### Stats for Nerds
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiakhan50&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
-</a>
 
 <!--
 
