@@ -17,7 +17,7 @@
 <!--svg-->
 
 ### I am a second year Computer Science Student @TMU 👋 ###
-- 👋 Hi, I’m Arshia Sharifi
+- 👋 My name is I’m Arshia Sharifi
 - 👀 I’m always eager to take on new challenges and continuously imporove my skills.
 - 💞️ I am passionate about creating user-friendly software solutions that can make a real impact.
 - 📫 How to reach me:
