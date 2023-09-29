@@ -22,7 +22,6 @@
 - 💞️ I am passionate about creating user-friendly software solutions that can make a real impact.
 - 📫 How to reach me:
   <ul>
-  <li>Email: arshia.sharifi@torontomu.ca</li>
   <li><a href="https://www.linkedin.com/in/arshia-sharifi-1b581024b/" target="_blank">LinkedIn</a></li>
   </ul>
 - 🤔 Currently seeking internships ranging from 4-16 months for the 2024 calendar year.
