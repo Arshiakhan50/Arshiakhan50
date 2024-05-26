@@ -16,7 +16,7 @@
 <img src="https://github.com/Arshiakhan50/Arshiakhan50/blob/main/header_.png">
 <!--svg-->
 
-### I am a second year Computer Science Student @TMU 👋 ###
+### I am a third year Computer Science Student @TMU 👋 ###
 - 👋 My name is I’m Arshia Sharifi
 - 👀 I’m always eager to take on new challenges and continuously imporove my skills.
 - 💞️ I am passionate about creating user-friendly software solutions that can make a real impact.
